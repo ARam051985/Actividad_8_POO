@@ -63,6 +63,21 @@ resultado es 5, y el contador arroja como resultado "4" debido a que el ciclo
 for no inicia en el primer índice, sino en el segundo, y omite el cero ubicado
 en el puro inicio del arreglo.
 
+## Retos presentados
+El único reto que se ha presentado fue el siguiente:
+- **Configurar el entorno de pruebas**. Para poder realizar las pruebas
+unitarias de manera correcta con JUnit, es necesario configuar todo para que
+todo funcione a la perfección; de otra manera, se irá lanzando una serie de
+errores.
+
+## Aprendizajes adquiridos
+Los aprendizajes que adquirí fue sobre cómo puedo realizar pruebas unitarias de
+manera profesional utilizando herramientas indicadas y funciones especializadas
+para llevar estas tareas a cabo. Siento que te puede facilitar muchísimo el
+avance de diversos proyectos a la hora de utilizar estas herramientas.
+También aprendí a cómo configurar de manera correcta el entorno para poder
+realizar las pruebas unitarias con JUnit y Maven.
+
 ## Tecnologías utilizados
 IDE: IntelliJ IDEA
 Versión de Java: 26.2.1
